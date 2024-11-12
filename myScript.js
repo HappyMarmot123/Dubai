@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function () {
     pin: ".flip_page", // 애니메이션이 끝날 때까지 'testboy' 요소를 화면에 고정
     pinSpacing: false,
     anticipatePin: 1, // Pin 애니메이션이 시작되기 전에 조금 미리 고정
-    markers: true,
+    // markers: true,
   });
 
   // Luxury !!

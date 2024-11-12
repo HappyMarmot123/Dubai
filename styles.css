@@ -230,7 +230,6 @@ span {
   z-index: -1; /* Place it behind content */
 }
 .panel {
-  border: 1px solid red;
   mix-blend-mode: plus-lighter;
   color: #93ff89;
   width: 100%;
